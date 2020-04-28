@@ -1,0 +1,1 @@
+var redpink_monochrome = ["#E2C9D5", "#B05883", "#86335C", "#6A123D"];
